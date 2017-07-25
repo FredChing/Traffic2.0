@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tigercel>
+  <update>
+    <android>
+      <versionCode>1</versionCode>
+      <versionName>V1.0</versionName>
+      <downloadUrl>http://tcloudapi.oss-cn-shanghai.aliyuncs.com/flow-app/upgrade/apk/app-baidu-debug.apk</downloadUrl>
+      <updateLog>
+      	<![CDATA[你好，这只是一个测试！]]>
+      </updateLog>
+    </android>
+  </update>
+</tigercel>
